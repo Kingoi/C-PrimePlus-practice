@@ -12,6 +12,5 @@ void showNameAndAdress()
 {
 	cout << "Your name is Liushun Xie" << endl;
 	cout << "Your adress is ABC" << endl;
-	cout << "Fininshed!"<<endl;
 }
 
